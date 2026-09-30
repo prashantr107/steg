@@ -17,7 +17,7 @@ The **AI-Generated Image Detector** is a machine learning project designed to de
 - **Makefile**: Automates the build and model training processes.
 
 ## Project Structure
-
+need to be checked
 ```bash
 ├── AI_generate/                  # Contains data and scripts for generating AI images
 ├── hugging_face_config/           # Configuration files for Hugging Face models
